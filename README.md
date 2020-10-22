@@ -1,2 +1,2 @@
 # Notebooks
-Notebooks for creating your own image classification model and handwritten digit recognition example.
+Notebooks for creating your own image classification model without any coding and handwritten digit recognition example.
